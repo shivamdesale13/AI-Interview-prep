@@ -22,16 +22,3 @@ Database: MongoDB with Mongoose
 Auth: JWT, Bcrypt
 
 Dev Tools: Vite, Postman, VS Code
-
-ai-interview-prep/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.jsx
-└── README.md
